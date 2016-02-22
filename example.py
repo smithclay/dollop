@@ -1,4 +1,4 @@
-from creator import DollopServer, Tub
+from dollop import DollopServer, Tub
 
 # Create a new stack with a single server
 t = Tub('My Example Stack')

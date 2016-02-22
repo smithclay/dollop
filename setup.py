@@ -5,7 +5,7 @@
 from setuptools import Command, setup, find_packages
 from codecs import open
 from os import path
-from creator import __version__
+from dollop import __version__
 from subprocess import call
 
 here = path.abspath(path.dirname(__file__))

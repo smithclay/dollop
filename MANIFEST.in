@@ -2,6 +2,7 @@
 exclude .gitignore
 exclude .coverage
 exclude .travis.yml
+recursive-exclude .idea
 recursive-exclude *.egg-info *
 include README.rst
 include setup.cfg
