@@ -1,4 +1,5 @@
 ## dollop: an easy way to create cloud servers
+<img src="http://i.imgur.com/FmKOhdT.jpg" alt="Dollop" height="260px"></img>
 
 Dollop is a thin python wrapper around AWS CloudFormation. It's an easy way to create simply-configured EC2 instances for testing or development purposes.
 
